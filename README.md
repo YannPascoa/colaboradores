@@ -42,8 +42,8 @@ Este projeto é uma aplicação web feita com **Laravel 12** para gerenciar os c
 
 ```bash
 # 1. Clone o projeto
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/YannPascoa/colaboradores.git
+cd colaboradores
 
 # 2. Instale as dependências PHP
 composer install
